@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Régis
 
-- 🌱 I’m currently studying Applied Information and Data Sciences
+- I’m currently finishing my masters degree in applied information and data sciences
+- Have my bachelors degree in Busniess-/Industrial Engineering 
 
 
 <!---
