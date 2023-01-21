@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Régis
 
-- I’m currently finishing my masters degree in applied information and data sciences
+- I'm avout to complete my masters degree in applied information and data sciences
 - Have my bachelors degree in Busniess-/Industrial Engineering 
 
 
